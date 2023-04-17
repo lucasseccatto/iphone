@@ -6,3 +6,5 @@
 <p> - HTML </p>
 <p> - CSS </p>
 <p> - JavaScript </p>
+<br>
+<img src="https://github.com/lucasseccatto/iphone/blob/master/assets/projeto-iphone.png">
